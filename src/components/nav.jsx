@@ -23,7 +23,6 @@ function closeMenu(){
                 <div className='ssm:hidden lg:block space-x-2'>
                 <a href="#" className="text-white hover:bg-indigo-800 rounded-full px-5 py-2 text-xl">Skills</a>
                 <a href="#" className="text-white hover:bg-indigo-800 rounded-full px-5 py-2 text-xl">Projects</a>
-                <a href="#" className="text-white hover:bg-indigo-800 rounded-full px-5 py-2 text-xl">About</a>
                 <a href="#" className="text-white hover:bg-indigo-800 rounded-full px-5 py-2 text-xl">Contact</a>
                 </div>
                 <div className='ssm:block lg:hidden'>
@@ -40,7 +39,6 @@ function closeMenu(){
                 <ul>
                     <li className='text-white text-xl mb-2 cursor-pointer'>Skills</li>
                     <li className='text-white text-xl mb-2 cursor-pointer'>Projects</li>
-                    <li className='text-white text-xl mb-2 cursor-pointer'>About</li>
                     <li className='text-white text-xl mb-2 cursor-pointer'>Contact</li>
                 </ul>
             </div>
