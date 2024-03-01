@@ -17,7 +17,7 @@ function closeMenu(){
         <>
         <div className="flex items-center justify-between p-10 lg:flex-row text-black-300">
             <div>
-                <a href="#" className="text-white font-mono text-3xl tracking-wider flex items-center"> <CgNametag/> Felipe Herrera Perea</a>
+                <a href="#" className="text-white font-mono text-3xl tracking-wider flex items-center"> <CgNametag/>Mr. Overman</a>
             </div>
             <div className="space-x-4">
                 <div className='ssm:hidden lg:block space-x-2'>

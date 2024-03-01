@@ -6,7 +6,7 @@ const hero = () => {
         <section className='flex justify-around items-center p-10 space-x-10 lg:flex-row ssm:space-y-10 text-white'>
             <div className='lg:w-1/3 ssm:w-fit'>
                 <p className='text-4xl mb-5 text-slate-300'>I am</p>
-                <h1 className='text-6xl'>Felipe</h1>
+                <h1 className='text-6xl'>Felipe Herrera Perea</h1>
                 <hr/>
                 <p className='mt-10 text-slate-300 font-sans'>
                     I am a Full Stack Developer from Medellin, Colombia. 
