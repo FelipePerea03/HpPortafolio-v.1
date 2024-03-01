@@ -1,9 +1,11 @@
-
+import Main from "./components/main"
 
 function App() {
   
   return (
-    <h1 className="text-3xl">Hola Herrera</h1>
+   <>
+    <Main/>
+   </>
   )
 }
 
